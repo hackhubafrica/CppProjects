@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <a HACKING: THE ART OF EXPLOITATION by Jon Erickson > #
 
 
@@ -83,3 +84,6 @@
 # <Cryptology 0x700 >
 # <Conclusion 0x800 > 
 
+=======
+# CppProjects
+>>>>>>> origin/main
